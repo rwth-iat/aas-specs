@@ -1,0 +1,11 @@
+@startuml
+
+note left of Property
+  Exemplary Submodel Element
+  "Property",
+  other submodel element subtypes
+  include operations, collections, files
+  etc.
+end note
+
+@enduml
