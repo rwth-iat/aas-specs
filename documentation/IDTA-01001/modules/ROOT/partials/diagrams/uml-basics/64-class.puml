@@ -1,7 +1,0 @@
-@startuml
-
-
-class Class1 {
-  +attr: Class2
-}
-@enduml

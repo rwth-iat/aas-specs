@@ -1,8 +1,0 @@
-@startuml
-
-
-enum Enumeration1 <<enumeration>> {
-  a
-  b
-}
-@enduml

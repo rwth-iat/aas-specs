@@ -1,7 +1,0 @@
-@startuml
-
-package Package2 [
-  + Class2
-]
-
-@enduml

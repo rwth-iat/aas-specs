@@ -1,8 +1,0 @@
-@startuml
-
-
-class Class1  {
-  +attr: Class2 <<Deprecated>>
-}
- 
-@enduml
