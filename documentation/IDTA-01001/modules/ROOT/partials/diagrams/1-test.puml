@@ -1,11 +1,5 @@
 @startuml
 
-note left of Property
-  Exemplary Submodel Element
-  "Property",
-  other submodel element subtypes
-  include operations, collections, files
-  etc.
-end note
+!include partial$diagrams/classes/asset-administration-shell.puml
 
 @enduml

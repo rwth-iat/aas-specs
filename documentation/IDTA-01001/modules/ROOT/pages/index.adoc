@@ -17,7 +17,7 @@ Types can also be derived from other types.
 
 .Overview Metamodel of the Asset Administration Shell
 [[image-overview-metamodel-of-the-asset-administration-shell]]
-[plantuml, 11-asset-administration-shell, svg]
+[plantuml, 1-test, svg]
 ....
 include::partial$diagrams/1-test.puml[]
 ....
