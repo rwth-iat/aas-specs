@@ -20,6 +20,8 @@ plantuml::partial$diagrams/11-asset-administration-shell.puml[]
 == Version 2
 plantuml::partial$./diagrams/11-asset-administration-shell.puml[opts=interactive]
 
+////
+
 == Version 3
 .Overview Metamodel of the Asset Administration Shell
 [plantuml, 11-asset-administration-shell, svg]
@@ -35,4 +37,5 @@ include::partial$diagrams/11-asset-administration-shell.puml[]
 include::partial$./diagrams/11-asset-administration-shell.puml[]
 ....
 
+////
 
