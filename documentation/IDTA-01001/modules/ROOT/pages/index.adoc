@@ -15,10 +15,10 @@ The same holds true for the Asset Administration Shell of a type asset.
 Types can also be derived from other types.
 
 == Version 1
-//plantuml::partial$diagrams/11-asset-administration-shell.puml[]
+plantuml::partial$diagrams/11-asset-administration-shell.puml[]
 
 == Version 2
-//plantuml::partial$./diagrams/11-asset-administration-shell.puml[opts=interactive]
+plantuml::partial$./diagrams/11-asset-administration-shell.puml[opts=interactive]
 
 
 == Version 3
