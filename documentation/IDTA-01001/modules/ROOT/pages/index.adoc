@@ -66,3 +66,30 @@ include::partial$./diagrams/1-asset-administration-shell.puml[]
 ....
 
 
+= Part 1: Metamodel (IDTA-01001)
+
+In case of an Asset Administration Shell of an instance asset, a reference to the Asset Administration Shell representing the corresponding type asset or another instance asset it was derived from may be added (xref:spec-metamodel/core.adoc#aas_attributes[AssetAdministrationShell/derivedFrom]).
+The same holds true for the Asset Administration Shell of a type asset.
+Types can also be derived from other types.
+
+== Version 1
+plantuml::../partials/diagrams/1-asset-administration-shell.puml[]
+
+== Version 2
+plantuml::../partials/diagrams/1-asset-administration-shell.puml[opts=interactive]
+
+
+== Version 3
+.Overview Metamodel of the Asset Administration Shell
+[plantuml, 1-asset-administration-shell, svg]
+....
+include::../partials/diagrams/1-asset-administration-shell.puml[]
+....
+
+
+== Version 4
+.Overview Metamodel of the Asset Administration Shell
+[plantuml, 1-asset-administration-shell, svg]
+....
+include::../partials/diagrams/1-asset-administration-shell.puml[]
+....
