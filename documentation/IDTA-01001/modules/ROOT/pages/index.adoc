@@ -17,7 +17,6 @@ Types can also be derived from other types.
 == Version 1
 plantuml::partial$diagrams/11-asset-administration-shell.puml[]
 
-////
 == Version 2
 plantuml::partial$./diagrams/11-asset-administration-shell.puml[opts=interactive]
 
@@ -37,5 +36,3 @@ include::partial$diagrams/11-asset-administration-shell.puml[]
 include::partial$./diagrams/11-asset-administration-shell.puml[]
 ....
 
-
-////
