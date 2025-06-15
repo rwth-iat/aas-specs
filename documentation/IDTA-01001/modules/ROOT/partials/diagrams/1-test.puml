@@ -1,5 +1,0 @@
-@startuml
-
-!include partial$diagrams/classes/asset-administration-shell.puml
-
-@enduml
