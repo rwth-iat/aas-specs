@@ -15,7 +15,9 @@ In case of an Asset Administration Shell of an instance asset, a reference to th
 The same holds true for the Asset Administration Shell of a type asset.
 Types can also be derived from other types.
 
-== Version 1
+== Version 3
 .Overview Metamodel of the Asset Administration Shell
-[plantuml, 4-asset-administration-shell, svg]
-plantuml::partial$diagrams/11-asset-administration-shell.puml[]
+[plantuml, 11-asset-administration-shell, svg]
+....
+include::partial$diagrams/11-asset-administration-shell.puml[]
+....
