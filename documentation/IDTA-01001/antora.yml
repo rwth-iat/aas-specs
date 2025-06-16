@@ -4,5 +4,8 @@ version: 'v3.2'
 display_version: 'in progress'
 prerelease: true
 start_page: ROOT:index.adoc
+asciidoc:
+    attributes:
+        kroki-plantuml-include-paths: './modules/ROOT/partials/diagrams'
 nav:
   - modules/ROOT/nav.adoc
