@@ -1,7 +1,7 @@
 
 
 .Overview Metamodel of the Asset Administration Shell
-[plantuml, 22-asset-administration-shell, svg]
+[plantuml, 22-asset-administration-shell]
 ....
 
 @startuml
